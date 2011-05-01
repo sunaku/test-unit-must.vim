@@ -43,7 +43,7 @@ syntax keyword rubyTestMethod
       \ must_not_raise_kind_of
       \ must_not_raise_message
       \ must_not_raise_nothing
-      \ must_not_receive
+      \ must_not_accept
       \ must_not_respond_to
       \ must_not_throw
       \ must_not_throw_nothing
@@ -54,7 +54,7 @@ syntax keyword rubyTestMethod
       \ must_raise_kind_of
       \ must_raise_message
       \ must_raise_nothing
-      \ must_receive
+      \ must_accept
       \ must_respond_to
       \ must_throw
       \ must_throw_nothing
